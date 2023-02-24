@@ -1,5 +1,5 @@
 # MongoDB-with-Python
-- I followed 3 crash course and w3school tutorial while learning mongoDb with python.
+- I followed 3 crash course and 3 tutorials while learning mongoDb with python.
 - The trainings and tutorial links I followed are below.
     + Tutorials:
         * https://www.mongodb.com/docs/guides/atlas/cluster/ -> MongoDb formal guide
